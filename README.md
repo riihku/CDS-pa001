@@ -76,7 +76,7 @@ Após vários testes, notou-se um padrão de erro de preenchimento em alguns dad
 Uso de mapa mental para auxiliar na Análise Exploratória de Dados.
 
 <div align="center">
-<img src="https://imgur.com/a/cyiCYgS.png" />
+<img src="https://imgur.com/Ebjm2EF.png" />
 </div><br>
 
 
@@ -90,7 +90,7 @@ Com a Análise Exploratória de Dados, foi possível validar algumas hipóteses,
 Após o cálculo de IMC baseado nas informações coletadas, foi possível observar que quanto mais acima do IMC ideal, maiores as chances do paciente apresentar doença cardíaca.
 
 <div align="center">
-<img src="https://imgur.com/a/1bN7kXH.png" />
+<img src="https://imgur.com/tjKoCVA.png" />
 </div><br>
 
 ### Hipótese 2 - Pacientes com pressão elevada apresentam mais doença cardíaca : 
@@ -116,7 +116,7 @@ Após o cálculo de IMC baseado nas informações coletadas, foi possível obser
 </div><br>
 
 <div align="center">
-<img src="https://imgur.com/a/C6YjeaH.png" />
+<img src="https://imgur.com/ULvXKYS.png" />
 </div><br>
 
 
