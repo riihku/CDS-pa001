@@ -109,6 +109,10 @@ Após o cálculo de IMC baseado nas informações coletadas, foi possível obser
 <img src="https://imgur.com/UwUWY46.png" />
 </div><br>
 
+Avaliando os gráficos e as distribuições de cada uma das hipóteses, foi possível validar essas 3 principais. Com os dados disponíveis, elas reforçam o conhecimento / senso comum de informções que são passadas para reduzir a chance de se ter doenças cardíacas.
+Controlar a pressão, índices de massa corporal e se manter ativo com exercícios.
+
+
 ## Machine Learning Modelling & Performance
 
 <div align="center">
