@@ -76,7 +76,7 @@ Após vários testes, notou-se um padrão de erro de preenchimento em alguns dad
 Uso de mapa mental para auxiliar na Análise Exploratória de Dados.
 
 <div align="center">
-<img src="https://imgur.com/a/cyiCYgS" />
+<img src="https://imgur.com/a/cyiCYgS.png" />
 </div><br>
 
 
@@ -90,7 +90,7 @@ Com a Análise Exploratória de Dados, foi possível validar algumas hipóteses,
 Após o cálculo de IMC baseado nas informações coletadas, foi possível observar que quanto mais acima do IMC ideal, maiores as chances do paciente apresentar doença cardíaca.
 
 <div align="center">
-<img src="https://imgur.com/a/1bN7kXH" />
+<img src="https://imgur.com/a/1bN7kXH.png" />
 </div><br>
 
 ### Hipótese 2 - Pacientes com pressão elevada apresentam mais doença cardíaca : 
@@ -98,7 +98,7 @@ Após o cálculo de IMC baseado nas informações coletadas, foi possível obser
 <strong><span style="color: red;">Verdadeiro</span></strong>
 
 <div align="center">
-<img src="https://imgur.com/6ztkewq" />
+<img src="https://imgur.com/6ztkewq.png" />
 </div><br>
 
 ### Hipótese 3 - Pacientes que não praticam exercícios físicos apresentam mais doença cardíaca : 
@@ -106,17 +106,17 @@ Após o cálculo de IMC baseado nas informações coletadas, foi possível obser
 <strong><span style="color: red;">Verdadeiro</span></strong>
 
 <div align="center">
-<img src="https://imgur.com/UwUWY46" />
+<img src="https://imgur.com/UwUWY46.png" />
 </div><br>
 
 ## Machine Learning Modelling & Performance
 
 <div align="center">
-<img src="https://imgur.com/0QXMccY" />
+<img src="https://imgur.com/0QXMccY.png" />
 </div><br>
 
 <div align="center">
-<img src="https://imgur.com/a/C6YjeaH" />
+<img src="https://imgur.com/a/C6YjeaH.png" />
 </div><br>
 
 
